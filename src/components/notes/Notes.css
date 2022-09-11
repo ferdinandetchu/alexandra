@@ -1,0 +1,137 @@
+.notes-wrapper {
+  display: grid;
+  grid-template-columns: repeat(6);
+  grid-template-rows: auto;
+  grid-template-areas:
+    '. present present present present .'
+    '. . image . . .'
+    '. past  image .  future .'
+    '. notes notes notes notes .';
+  margin: 1rem;
+}
+
+.table-wrapper-present {
+  display: grid;
+  grid-area: present;
+}
+
+.card-image {
+  display: grid;
+  grid-area: image;
+}
+
+.table-wrapper-past {
+  display: grid;
+  grid-area: past;
+}
+
+.table-wrapper-future {
+  display: grid;
+  grid-area: future;
+}
+
+.user-notes-input {
+  display: grid;
+  grid-area: notes;
+}
+
+.translation {
+  display: grid;
+  grid-template-columns: repeat(7);
+  grid-template-rows: auto;
+  grid-template-areas: '. textTranslate textTranslate translateButton  translatedText translatedText .';
+}
+
+.text-to-translate {
+  display: grid;
+  grid-area: textTranslate;
+}
+
+.translated-text {
+  display: grid;
+  grid-area: translatedText;
+}
+
+.translation-radio-buttons {
+  background-color: rgb(240, 240, 240);
+  margin: 0 0.2rem;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+}
+
+.radio-buttons-eng-pl,
+.radio-buttons-pl-eng {
+  background-color: black;
+  width: 1rem;
+}
+
+.text-to-translate textarea,
+.translated-text textarea {
+  font-size: 1rem;
+  font-family: inherit;
+  font-weight: 400;
+  min-height: 5rem;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+
+.table-wrapper-present tr {
+  width: 2rem;
+  background-color: rgb(32, 51, 173);
+  color: rgb(199, 199, 199);
+}
+
+.table-wrapper-future tr {
+  width: 2rem;
+  background-color: rgb(56, 179, 144);
+}
+
+.user-notes {
+  width: 90%;
+  font-family: inherit;
+  font-weight: 400;
+  min-height: 10rem;
+  padding: 12px 20px;
+  margin: 3rem 4rem 0 4rem;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 1rem;
+  resize: none;
+}
+
+.translation-btn-link a {
+  display: grid;
+  place-content: center;
+  color: rgb(48, 48, 48);
+  text-decoration: none;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+}
+
+.translation-btn-link,
+a:hover {
+  color: rgb(252, 55, 61);
+
+  font-size: 1rem;
+  transition: all 0.6s;
+}
+
+.update-notes-play-voice {
+  display: grid;
+  grid-template-columns: repeat(2);
+  grid-template-areas: 'btn tts';
+}
+
+.text-to-speech {
+  display: grid;
+  grid-area: tts;
+}
+
+.btn--update-notes {
+  display: grid;
+  grid-area: btn;
+}

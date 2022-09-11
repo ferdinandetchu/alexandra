@@ -1,0 +1,263 @@
+{
+  "position": {
+    "columnOne": {
+      "name": "Nowe słowa",
+      "items": [
+        {
+          "id": "d509237d-6e00-4da9-ae33-80fcd41c2485",
+          "notes": "Uwielbiam tworzyć nowe i ekscytujące narzędzia, które pomogą mi w nauce języka polskiego.",
+          "word_image": {
+            "polish_word": "Tworzyć",
+            "english_word": "To create",
+            "image_url": "https://www.cqu.edu.au/__data/assets/image/0022/146407/create-concept.jpg"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "aspect": "Dokonany",
+            "color": "#ff2233"
+          },
+          "present": {
+            "present_ja": "tworzę",
+            "present_ty": "tworzysz",
+            "present_on_ona_ono": "tworzy",
+            "present_my": "tworyzmy",
+            "present_wy": "tworzycie",
+            "present_oni_one": "tworzą"
+          },
+          "past": {
+            "past_ja_masc": "tworzyłem",
+            "past_ja_fem": "tworzyłam",
+            "past_ty_masc": "tworzyłeś",
+            "past_ty_fem": "tworzyłaś",
+            "past_on_masc": "tworzył",
+            "past_ona_fem": "tworzyły",
+            "past_my_masc": "tworzyliśmy",
+            "past_my_fem": "tworzyłyśmy",
+            "past_wy_masc": "tworzyliście",
+            "past_wy_fem": "tworzyłyście",
+            "past_oni_masc": "tworzyli",
+            "past_one_fem": "tworzyły"
+          },
+          "imp_future": {
+            "imp_future_ja": "będą tworzyć",
+            "imp_future_ty": "będziesz tworzyć",
+            "imp_future_on_ona_ono": "będzie tworzyć",
+            "imp_future_my": "będziemy tworzyć",
+            "imp_future_wy": "będziecie tworzyć",
+            "imp_future_oni_one": "będą tworzyć"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę tworzyła",
+            "future_fem_ty": "będziesz tworzyła",
+            "future_fem_ona": "będzie tworzyła",
+            "future_fem_my": "będziemy tworzyły",
+            "future_fem_wy": "będziecie tworzyły",
+            "future_fem_one": "będą tworzyły"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę tworzył",
+            "future_masc_ty": "będziesz tworzył",
+            "future_masc_on": "będzie tworzył",
+            "future_masc_my": "będziemy tworzyli",
+            "future_masc_wy": "będziecie tworzyli",
+            "future_masc_oni": "będą tworzyli"
+          }
+        }
+      ]
+    },
+    "columnTwo": {
+      "name": "Przeszły",
+      "items": [
+        {
+          "id": "76ff3352-e572-4468-9f1a-649390b19dcf",
+          "notes": "Nie zgadzam się, moja Niuńcia kładzie się jak kula na podłodze jak się ubieram , mizia się koło nóg chce jeszcze więcej głaskania. A jak tylko wchodze do domu spowrotem to biegnie jak małe dziecko i od razu na rączki i się wtula.\nMyślę, że muszę dziś jechać własnym samochodem do miasta.",
+          "word_image": {
+            "polish_word": "Używać",
+            "english_word": "To use",
+            "image_url": "https://media.istockphoto.com/vectors/guy-hipster-sits-on-toilet-bowl-with-phone-in-hands-vector-id612244494?s=170667a"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "aspect": "Dokonany",
+            "color": "#ff2233"
+          },
+          "present": {
+            "present_ja": "używam  ",
+            "present_ty": "używasz",
+            "present_on_ona_ono": "używa",
+            "present_my": "używamy",
+            "present_wy": "używacie",
+            "present_oni_one": "używają"
+          },
+          "past": {
+            "past_ja_masc": "używałem",
+            "past_ja_fem": "używałam",
+            "past_ty_masc": "używałeś",
+            "past_ty_fem": "używałaś",
+            "past_on_masc": "używał",
+            "past_ona_fem": "używała",
+            "past_my_masc": "używaliśmy",
+            "past_my_fem": "używałyśmy",
+            "past_wy_masc": "używaliście",
+            "past_wy_fem": "używałyście",
+            "past_oni_masc": "używali",
+            "past_one_fem": "używały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę używać",
+            "imp_future_ty": "będziesz używać",
+            "imp_future_on_ona_ono": "będzie używać",
+            "imp_future_my": "będziemy używać",
+            "imp_future_wy": "będziecie używać",
+            "imp_future_oni_one": "będą używać"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę używała",
+            "future_fem_ty": "będziesz używała",
+            "future_fem_ona": "będzie używała",
+            "future_fem_my": "będziemy używały",
+            "future_fem_wy": "będziecie używały",
+            "future_fem_one": "będą używały"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę używał",
+            "future_masc_ty": "będziesz używał",
+            "future_masc_on": "będzie używał",
+            "future_masc_my": "będziemy używali",
+            "future_masc_wy": "będziecie używali",
+            "future_masc_oni": "będą używali"
+          }
+        }
+      ]
+    },
+    "columnThree": {
+      "name": "Przyszły",
+      "items": []
+    },
+    "columnFour": {
+      "name": "Stare słowa",
+      "items": [
+        {
+          "id": "7d7aa7e5-8ac3-477b-867f-9672d0ca5df3",
+          "word_image": {
+            "polish_word": "Potrwać",
+            "english_word": "To last",
+            "image_url": "https://thumbs.dreamstime.com/b/time-control-retro-cartoon-design-running-man-clock-background-schedule-grey-gears-vector-illustration-86568744.jpg"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "aspect": "Dokonany",
+            "color": "#ff2233"
+          },
+          "present": {
+            "present_ja": "potrwam",
+            "present_ty": "potrwasz",
+            "present_on_ona_ono": "potrwa",
+            "present_my": "potrwamy",
+            "present_wy": "potrwacie",
+            "present_oni_one": "potrwają"
+          },
+          "past": {
+            "past_ja_masc": "potrwałem",
+            "past_ja_fem": "potrwałam",
+            "past_ty_masc": "potrwałeś",
+            "past_ty_fem": "potrwałaś",
+            "past_on_masc": "potrwał",
+            "past_ona_fem": "potrwała",
+            "past_my_masc": "potrawaliśmy",
+            "past_my_fem": "potrwałałyśmy",
+            "past_wy_masc": "potrwaliście",
+            "past_wy_fem": "potrwałałyście",
+            "past_oni_masc": "potrwali",
+            "past_one_fem": "potrwałały"
+          },
+          "imp_future": {
+            "imp_future_ja": "",
+            "imp_future_ty": "",
+            "imp_future_on_ona_ono": "",
+            "imp_future_my": "",
+            "imp_future_wy": "",
+            "imp_future_oni_one": " "
+          },
+          "future_fem": {
+            "future_fem_ja": "potrwam",
+            "future_fem_ty": "potrwasz",
+            "future_fem_ona": "potrwa",
+            "future_fem_my": "potrwamy",
+            "future_fem_wy": "potrwacie",
+            "future_fem_one": "potrwają"
+          },
+          "future_masc": {
+            "future_masc_ja": "potrwam",
+            "future_masc_ty": "potrwasz",
+            "future_masc_on": "potrwa",
+            "future_masc_my": "potrwamy",
+            "future_masc_wy": "potrwacie",
+            "future_masc_oni": "potrwają"
+          },
+          "notes": "Jak długo może to potrwać?\nBez obawy, ból potrwa tylko chwilę.\nMoje bankructwo potrwałoby 18 miesięcy. \nMój kurs trwał sześć miesięcy. Cieszę się, że to się skończyło, bo nie sądziłem, że wytrzymam.\nAngielski tekst do przetłumaczenia\n\n"
+        },
+        {
+          "id": "1aca8ff0-46df-48e6-92f5-be2f27009549",
+          "notes": "Moja najlepsza przyjaciółka poszła wczoraj do lekarza.\nW przyszłym tygodniu w środę polecę do Anglii do pracy. Muszę zapłacić za gaz Putina i idiotyzm.\nWczoraj poszedłem do sklepu po obiedzie.",
+          "word_image": {
+            "polish_word": "iść",
+            "english_word": "To go",
+            "image_url": "https://thumbs.dreamstime.com/b/kresk%C3%B3wka-pracownika-budowlanego-marszczy%C4%87-brwi-135307416.jpg"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "aspect": "Dokonany",
+            "color": "#ff2233"
+          },
+          "present": {
+            "present_ja": "idę",
+            "present_ty": "idziesz",
+            "present_on_ona_ono": "idzie",
+            "present_my": "idziemy",
+            "present_wy": "idziecie",
+            "present_oni_one": "idą"
+          },
+          "past": {
+            "past_ja_masc": "szedłem",
+            "past_ja_fem": "szłam",
+            "past_ty_masc": "szedłeś",
+            "past_ty_fem": "szłaś",
+            "past_on_masc": "szedł",
+            "past_ona_fem": "szła",
+            "past_my_masc": "szliśmy",
+            "past_my_fem": "szłyśmy",
+            "past_wy_masc": "szliście",
+            "past_wy_fem": "szyście",
+            "past_oni_masc": "szli",
+            "past_one_fem": "szły"
+          },
+          "imp_future": {
+            "imp_future_ja": "będą iść",
+            "imp_future_ty": "będziesz iść",
+            "imp_future_on_ona_ono": "będzie iść",
+            "imp_future_my": "będziemy iść",
+            "imp_future_wy": "będziecie iść",
+            "imp_future_oni_one": "będą iść"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę szła",
+            "future_fem_ty": "będziesz szła",
+            "future_fem_ona": "będzie szła",
+            "future_fem_my": "będziemy szły",
+            "future_fem_wy": "będziecie szły",
+            "future_fem_one": "będą szły"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę szedł",
+            "future_masc_ty": "będziesz szedł",
+            "future_masc_on": "będzie szedł",
+            "future_masc_my": "będziemy szłi",
+            "future_masc_wy": "będziecie szłi",
+            "future_masc_oni": "będą szłi"
+          }
+        }
+      ]
+    }
+  }
+}
